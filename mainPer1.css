@@ -21,7 +21,7 @@ p {
 }
 header#mainHeader {
 	height: 185px;
-	background: url(images/logo.png) no-repeat 25px center;
+	background: url(Images/logo.png) no-repeat 25px center;
 	padding: 0 75px 0 300px;
 	position: relative;
 	border-bottom: 2px solid #7f7f7f;
